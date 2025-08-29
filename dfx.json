@@ -1,0 +1,18 @@
+{
+  "canisters": {
+    "ai_api_backend": {
+      "candid": "src/ai_api_backend/ai_api_backend.did",
+      "package": "ai_api_backend",
+      "type": "rust",
+      "log_visibility": "public"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}

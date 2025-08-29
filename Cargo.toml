@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/ai_api_backend"
+]
+resolver = "2"
